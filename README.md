@@ -45,7 +45,7 @@
 
 #### I'm a Front End Developer / Designer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for <a href="https://molodesign.com/" target="_blank">molo</a> and <a href="https://mightysparrow.ca/" target="_blank">Mighty Sparrow</a>.
 
-#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accoutrements I find along the way). You can take a look at some of my work in my <a href="https://chriscoastal.com/" target="_blank">portfolio</a> or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accoutrements I find along the way). You can take a look at some of my work in my <a href="https://chriscoastal.netlify.app/" target="_blank">portfolio</a> or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
 
 <br/>
 
