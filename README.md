@@ -69,5 +69,3 @@
 </p>
 
 <br/>
-
-#### I'm not much for social media, but (if you are) you can usually find me @chriscoastal. If you aren't afraid of email, better to just write me at hello@chriscoastal.com or open a pull request on this repo to say 'hey'.
