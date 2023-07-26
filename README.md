@@ -1,7 +1,10 @@
-<img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header.png" />
-<br/><br/>
+<img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
+<br/>
+<img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
+<br/>
+<br/>
 
-#### I'm Chris, a Front End Developer / Designer with a background in professional web and print design, fine arts, and team management. I'm mostly working with React, Next, and Tailwind right now. You can take a look at some of my work in my <a href="https://chriscoastal.com/" target="_blank">portfolio</a> or just browse around the <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+#### I'm Chris, a Front End Developer / Designer with a background in web and print design, fine arts, and team management. These days I'm mostly working with React, Next, and Tailwind right now. You can take a look at some of my work in my <a href="https://chriscoastal.com/" target="_blank">portfolio</a> or just browse around the <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
 
 #### Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at hello@chriscoastal.com.
 
@@ -45,6 +48,14 @@
 </p>
 
 #### Software I'm currently learning:
+
+<p>
+  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=plastic-square&logo=svelte&logoColor=white" />
+  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-2596BE?style=plastic-square&logo=trpc&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic-square&logo=go&logoColor=white" />
+</p>
+
+#### Away from the keyboard:
 
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=plastic-square&logo=svelte&logoColor=white" />
