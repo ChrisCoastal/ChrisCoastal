@@ -1,15 +1,11 @@
+#### Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at hello@chriscoastal.com.
+
 <img alt="Christopher Allen" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
 <img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
 <br/>
 <br/>
 
-#### I'm Chris, a Front End Developer / Designer with a background in web and print design, fine arts, and team management. These days I'm mostly working with React, Next, and Tailwind right now. You can take a look at some of my work in my <a href="https://chriscoastal.com/" target="_blank">portfolio</a> or just browse around the <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
-
-#### Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at hello@chriscoastal.com.
-
-<br/>
-
-#### Software I work with:
+#### Stuff I'm usually working with:
 
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F74C0?style=plastic-square&logo=typescript&logoColor=white" />
@@ -45,23 +41,33 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=plastic-square&logo=github&logoColor=white" />
   <img alt="EsLint" src="https://img.shields.io/badge/-Eslint-4A32C3?style=plastic-square&logo=eslint&logoColor=white" />
 </p>
+<br/>
 
-#### Software I'm currently learning:
+#### I'm a Front End Developer / Designer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for <a href="https://molodesign.com/" target="_blank">molo</a> and <a href="https://mightysparrow.ca/" target="_blank">Mighty Sparrow</a>.
+
+#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accoutrements I find along the way). You can take a look at some of my work in my <a href="https://chriscoastal.com/" target="_blank">portfolio</a> or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+
+<br/>
+
+#### What I'm currently learning:
 
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=plastic-square&logo=svelte&logoColor=white" />
   <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-2596BE?style=plastic-square&logo=trpc&logoColor=white" />
+  <img alt="WebGL" src="https://img.shields.io/badge/-WebGL-990000?style=plastic-square&logo=webgl&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic-square&logo=go&logoColor=white" />
 </p>
 
-#### Away from the keyboard:
+#### When I'm not at the keyboard:
 
 <p>
-  <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=plastic-square&logo=svelte&logoColor=white" />
-  <img alt="tRPC" src="https://img.shields.io/badge/-tRPC-2596BE?style=plastic-square&logo=trpc&logoColor=white" />
-  <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic-square&logo=go&logoColor=white" />
+  <img alt="Tennis" src="https://img.shields.io/badge/-Tennis-fbbf24?style=plastic-square&logo=tistory&logoColor=white" />
+  <img alt="Disco Records" src="https://img.shields.io/badge/-Disco_Records-292524?style=plastic-square&logo=discogs&logoColor=white" />
+  <img alt="Bicycling" src="https://img.shields.io/badge/-Bicycling-14b8a6?style=plastic-square&logo=googlemaps&logoColor=white" />
+  <img alt="Coffee" src="https://img.shields.io/badge/-Coffee-78350f?style=plastic-square&logo=buymeacoffee&logoColor=white" />
+  <img alt="Plants" src="https://img.shields.io/badge/-Plants-059669?style=plastic-square&logo=leaflet&logoColor=white" />
 </p>
 
 <br/>
 
-<br/>
+#### I'm not much for social media, but (if you are) you can usually find me @chriscoastal. If you aren't afraid of email, better to just write me at hello@chriscoastal.com or open a pull request on this repo to say 'hey'.
