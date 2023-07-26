@@ -1,5 +1,4 @@
-<img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
-<br/>
+<img alt="Christopher Allen" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
 <img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
 <br/>
 <br/>
