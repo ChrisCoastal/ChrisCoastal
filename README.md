@@ -45,11 +45,11 @@
 
 #### I'm a Front End Developer / Designer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for <a href="https://molodesign.com/" target="_blank">molo</a> and <a href="https://mightysparrow.ca/" target="_blank">Mighty Sparrow</a>.
 
-#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accoutrements I find along the way). You can take a look at some of my work in my <a href="https://chriscoastal.netlify.app/" target="_blank">portfolio</a> or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accouterments I discover along the way). You can take a look at some of my work in my <a href="https://chriscoastal.com" target="_blank">portfolio</a>, check out my <a href="https://chriscoastal.com/resume/christopher-allen-cv.pdf" target="_blank">cv</a>, or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
 
 <br/>
 
-#### When I feel like I don't have enough on my plate (aka what I'm currently learning):
+#### When I feel like I don't already have enough on my plate (aka what I'm currently learning):
 
 <p>
   <img alt="Svelte" src="https://img.shields.io/badge/-Svelte-FF3E00?style=plastic-square&logo=svelte&logoColor=white" />
@@ -65,7 +65,7 @@
   <img alt="Disco Records" src="https://img.shields.io/badge/-Disco_Records-292524?style=plastic-square&logo=discogs&logoColor=white" />
   <img alt="Bicycling" src="https://img.shields.io/badge/-Bicycling-14b8a6?style=plastic-square&logo=googlemaps&logoColor=white" />
   <img alt="Coffee" src="https://img.shields.io/badge/-Coffee-78350f?style=plastic-square&logo=buymeacoffee&logoColor=white" />
-  <img alt="Plants" src="https://img.shields.io/badge/-Plants-059669?style=plastic-square&logo=leaflet&logoColor=white" />
+  <img alt="Cleaning Fridge" src="https://img.shields.io/badge/-Cleaning_Fridge-84BD00?style=plastic-square&logo=iconjar&logoColor=white" />
 </p>
 
 <br/>
