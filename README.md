@@ -14,7 +14,7 @@
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=plastic-square&logo=vite&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=plastic-square&logo=docker&logoColor=white" /> 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=firebase&logoColor=white" />
-  <img alt="AWS Amplify" src="https://img.shields.io/badge/-AWS_Amplify-FF9900?style=plastic-square&logo=firebase&logoColor=white" />
+  <img alt="AWS Amplify" src="https://img.shields.io/badge/-AWS_Amplify-FF9900?style=plastic-square&logo=awsamplify&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=plastic-square&logo=nodedotjs&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic-square&logo=graphQL&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=plastic-square&logo=apollographql&logoColor=white" />
