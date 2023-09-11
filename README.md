@@ -12,20 +12,13 @@
   <img alt="React" src="https://img.shields.io/badge/-React-5ED3F3?style=plastic-square&logo=react&logoColor=white" />
   <img alt="NextJS" src="https://img.shields.io/badge/-Next.js-000000?style=plastic-square&logo=nextdotjs&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=plastic-square&logo=vite&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=plastic-square&logo=docker&logoColor=white" /> 
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=plastic-square&logo=redux&logoColor=white" /> 
+  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=plastic-square&logo=reactrouter&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=plastic-square&logo=firebase&logoColor=white" />
   <img alt="AWS Amplify" src="https://img.shields.io/badge/-AWS_Amplify-FF9900?style=plastic-square&logo=awsamplify&logoColor=white" />
   <img alt="NodeJS" src="https://img.shields.io/badge/-Node.js-339933?style=plastic-square&logo=nodedotjs&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=plastic-square&logo=graphQL&logoColor=white" />
   <img alt="Apollo" src="https://img.shields.io/badge/-Apollo-311C87?style=plastic-square&logo=apollographql&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=plastic-square&logo=reactrouter&logoColor=white" />
-  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic-square&logo=figma&logoColor=white" />
-  <img alt="xd" src="https://img.shields.io/badge/-xd-FF61F6?style=plastic-square&logo=adobexd&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=plastic-square&logo=adobephotoshop&logoColor=white" />
-  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=plastic-square&logo=adobeillustrator&logoColor=white" />
-  <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-FF3366?style=plastic-square&logo=adobeindesign&logoColor=white" />
-  <img alt="blender" src="https://img.shields.io/badge/-Blender_3D-F5792A?style=plastic-square&logo=blender&logoColor=white" />
-  <img alt="ThreeJS" src="https://img.shields.io/badge/-Three.js-000000?style=plastic-square&logo=threedotjs&logoColor=white" />
   <img alt="HTML 5" src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white" />
   <img alt="CSS 3" src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic-square&logo=cSS3&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=plastic-square&logo=sass&logoColor=white" />
@@ -34,6 +27,12 @@
   <img alt="Mui" src="https://img.shields.io/badge/-Mui-007FFF?style=plastic-square&logo=mui&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=plastic-square&logo=jest&logoColor=white" />
   <img alt="Testing Library" src="https://img.shields.io/badge/-Testing_Library-E33332?style=plastic-square&logo=testinglibrary&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic-square&logo=figma&logoColor=white" />
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=plastic-square&logo=adobephotoshop&logoColor=white" />
+  <img alt="Illustrator" src="https://img.shields.io/badge/-Illustrator-FF9A00?style=plastic-square&logo=adobeillustrator&logoColor=white" />
+  <img alt="InDesign" src="https://img.shields.io/badge/-InDesign-FF3366?style=plastic-square&logo=adobeindesign&logoColor=white" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender_3D-F5792A?style=plastic-square&logo=blender&logoColor=white" />
+  <img alt="ThreeJS" src="https://img.shields.io/badge/-Three.js-000000?style=plastic-square&logo=threedotjs&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=plastic-square&logo=prettier&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2B8EBB?style=plastic-square&logo=yarn&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=plastic-square&logo=visualstudiocode&logoColor=white" />
