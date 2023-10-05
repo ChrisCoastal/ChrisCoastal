@@ -1,6 +1,6 @@
-#### Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at hello@chriscoastal.com.
+#### Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at [hello@chriscoastal.com](mailto:hello@chriscoastal.com).
 
-<img alt="Christopher Allen" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
+<img alt="Christopher Allen Full Stack Developer & UI/UX Designer" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
 <img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
 <br/>
 <br/>
@@ -43,9 +43,9 @@
 </p>
 <br/>
 
-#### I'm a Front End Developer / Designer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for <a href="https://molodesign.com/" target="_blank">molo</a> and <a href="https://mightysparrow.ca/" target="_blank">Mighty Sparrow</a>.
+#### I'm a Front End Developer / Designer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for [molo](https://molodesign.com/) and [Mighty Sparrow](https://mightysparrow.ca/).
 
-#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accoutrements I discover along the way). You can take a look at some of my work in my <a href="https://chriscoastal.com" target="_blank">portfolio</a>, check out my <a href="https://chriscoastal.com/resume/christopher-allen-cv.pdf" target="_blank">cv</a>, or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+#### These days I'm mostly building with React, Next, and Tailwind (plus all the fun accoutrements I discover along the way). You can take a look at some of my work in my [portfolio](https://chriscoastal.com), check out my [cv](https://chriscoastal.com/resume/christopher-allen-cv.pdf), or just browse around my [repos](https://github.com/ChrisCoastal?tab=repositories) here on GitHub.
 
 <br/>
 
