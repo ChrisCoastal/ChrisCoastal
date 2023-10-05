@@ -1,4 +1,4 @@
-Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at [hello@chriscoastal.com](mailto:hello@chriscoastal.com) <a target="_blank" href="mailto:hello@chriscoastal.com">hello@chriscoastal.com</a>.
+Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at <a target="_blank" href="mailto:hello@chriscoastal.com">hello@chriscoastal.com</a>.
 
 <img alt="Christopher Allen Full Stack Developer & UI/UX Designer" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
 <img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
