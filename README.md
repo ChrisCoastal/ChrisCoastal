@@ -1,11 +1,11 @@
-### Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at [hello@chriscoastal.com](mailto:hello@chriscoastal.com).
+Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at [hello@chriscoastal.com](mailto:hello@chriscoastal.com) <a target="_blank" href="mailto:hello@chriscoastal.com">hello@chriscoastal.com</a>.
 
 <img alt="Christopher Allen Full Stack Developer & UI/UX Designer" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
 <img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
 <br/>
 <br/>
 
-Stuff I'm usually working with:
+Stuff I'm often working with:
 
 <p>
   <img alt="Typescript" src="https://img.shields.io/badge/-Typescript-2F74C0?style=plastic-square&logo=typescript&logoColor=white" />
@@ -42,9 +42,9 @@ Stuff I'm usually working with:
 </p>
 <br/>
 
-I'm a Full Stack Developer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for [molo](https://molodesign.com/) and [Mighty Sparrow](https://mightysparrow.ca/).
+I'm a Full Stack Developer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for <a target="_blank" href="https://molodesign.com/">molo</a> and <a target="_blank" href="https://mightysparrow.ca/">Mighty Sparrow</a>.
 
-These days I'm mostly building with React, Next, and Tailwind (plus all the other nice stuff I discover along the way). You can take a look at some of my work in my [portfolio](https://chriscoastal.com), check out my [cv](https://chriscoastal.com/resume/christopher-allen-resume.pdf), or just browse around my [repos](https://github.com/ChrisCoastal?tab=repositories) here on GitHub.
+These days I'm mostly building around React, Next, and Tailwind (along with all the other nice stuff I discover along the way). You can take a look at some of my work in my <a target="_blank" href="https://chriscoastal.com">portfolio</a>, check out my <a target="_blank" href="https://chriscoastal.com/resume/christopher-allen-resume.pdf">cv</a>, or just browse around my <a target="_blank" href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
 
 <br/>
 
