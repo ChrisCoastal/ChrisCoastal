@@ -42,9 +42,9 @@
 </p>
 <br/>
 
-#### I'm a Front End Developer / Designer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for [molo](https://molodesign.com/) and [Mighty Sparrow](https://mightysparrow.ca/).
+#### I'm a Full Stack Developer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for [molo](https://molodesign.com/) and [Mighty Sparrow](https://mightysparrow.ca/).
 
-#### These days I'm mostly building with React, Next, and Tailwind (plus all the other interesting stuff I discover along the way). You can take a look at some of my work in my <a href="https://chriscoastal.com" target="_blank">portfolio</a>, check out my <a href="https://chriscoastal.com/resume/christopher-allen-resume.pdf" target="_blank">cv</a>, or just browse around my <a href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+#### These days I'm mostly building with React, Next, and Tailwind (plus all the other nice stuff I discover along the way). You can take a look at some of my work in my [portfolio](https://chriscoastal.com), check out my [cv](https://chriscoastal.com/resume/christopher-allen-resume.pdf), or just browse around my [repos](https://github.com/ChrisCoastal?tab=repositories) here on GitHub.
 
 <br/>
 
