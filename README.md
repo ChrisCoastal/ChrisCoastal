@@ -1,6 +1,6 @@
-Hey! Want to make some nice stuff together? I'm currently looking for work and new projects to be a part of. If you think we'd be a good fit, reach out to me at <a target="_blank" href="mailto:hello@chriscoastal.com">hello@chriscoastal.com</a>.
+Hey! Want to make some nice stuff together? Reach out to me at <a target="_blank" href="mailto:hello@chriscoastal.com">hello@chriscoastal.com</a>.
 
-<img alt="Christopher Allen Full Stack Developer & Designer" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
+<img alt="Christopher Allen designer & frontend developer" src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-1.png" />
 <img alt="Hello, I like making nice stuff." src="https://github.com/ChrisCoastal/ChrisCoastal/blob/images/header-cc-2.png" />
 <br/>
 <br/>
@@ -44,16 +44,15 @@ Stuff I'm often working with:
 </p>
 <br/>
 
-I'm a talented full stack developer with a background in web and print design, fine arts, and team management. Previously, I'm proud to have worked for <a target="_blank" href="https://molodesign.com/">molo</a> and <a target="_blank" href="https://mightysparrow.ca/">Mighty Sparrow</a>.
+I'm a talented generalist with a background in web and print design and development, UX research and facilitation, and team management. Currently, I work as a product designer, reimagining communications tools for the Government of British Columbia. Before this, I'm proud and thankful to have worked for <a target="_blank" href="https://molodesign.com/">molo</a> and <a target="_blank" href="https://mightysparrow.ca/">Mighty Sparrow</a>.
 
-These days I'm mostly building around React, Next, Tailwind, and other nice stuff I find along the way. You can take a look at some of my work in my <a target="_blank" href="https://chriscoastal.com">portfolio</a>, check out my <a target="_blank" href="https://chriscoastal.com/resume/christopher-allen-resume.pdf">cv</a>, or just browse around my <a target="_blank" href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
+When I am writing code, I'm mostly building around React, Next, Tailwind, and other nice stuff I find along the way. You can take a look at some of my work in my <a target="_blank" href="https://chriscoastal.com">portfolio</a>, check out my <a target="_blank" href="https://chriscoastal.com/resume/christopher-allen-resume.pdf">cv</a>, or just browse around my <a target="_blank" href="https://github.com/ChrisCoastal?tab=repositories">repos</a> here on GitHub.
 
 <br/>
 
 When I feel like I don't already have enough on my plate (aka what I'm currently learning):
 
 <p>
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=plastic-square&logo=vuedotjs&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=plastic-square&logo=go&logoColor=white" />
 </p>
 
